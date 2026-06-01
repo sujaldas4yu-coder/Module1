@@ -8,8 +8,20 @@ To write a Python program to read a string from the user and then print it.
 2. Use `input()` to read a string from the user and store it in the variable.
 3. Print the value stored in the variable.
 
-## 🧾 Program
+## 🧾 Program:
+```
+# Read and print a string
 
-## Output
+men_stepped_on_the_moon = input("Enter a string: ")
+print(men_stepped_on_the_moon)
+```
 
-## Result
+## Output:
+```
+Enter a string: Hello World
+Hello World
+
+```
+
+## Result:
+The python program is executed successfully.
